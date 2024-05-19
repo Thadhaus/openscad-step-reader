@@ -11,6 +11,8 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU Lesser General Public License for more details.
  */
+#include <GeomAbs_SurfaceType.hxx>
+#include <BRepAdaptor_Surface.hxx>
 #include <BRepBuilderAPI_MakeSolid.hxx>
 #include <TopoDS_Shell.hxx>
 #include <TopExp.hxx>
